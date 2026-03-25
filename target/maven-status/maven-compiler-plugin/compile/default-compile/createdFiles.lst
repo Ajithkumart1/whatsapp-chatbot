@@ -1,0 +1,5 @@
+com\chatbot\controller\WebhookController.class
+com\chatbot\model\MessageResponse.class
+com\chatbot\WhatsAppChatbotApplication.class
+com\chatbot\model\MessageRequest.class
+com\chatbot\service\ChatbotService.class
